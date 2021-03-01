@@ -1,4 +1,4 @@
-import "./style.css";
+         im        port "./style.css";
 import p5 from "p5";
 import { Asteroid } from "./asteroid";
 import { Laser, ShotType } from "./laser";
